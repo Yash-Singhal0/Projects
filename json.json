@@ -1,0 +1,18 @@
+{
+    "name" : "yash",
+    "age" : 21,
+    "city" : "noida",
+    "d" : {
+        "name" : "aman",
+        "age" : 32,
+        "city" : "delhi",
+        "array" : ["yash","aman",{"a" : true}]
+    }
+}
+
+{
+    "name" : "yash", 
+    "age" : 21,
+    "city" : "noida",
+    "array" : ["yash","aman","anuj"]
+}
